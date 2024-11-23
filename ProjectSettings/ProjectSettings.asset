@@ -866,11 +866,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 99570c3f-3e96-47c8-bc49-0230e54b2ae2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Text Adventure
+  organizationId: polpybert
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
